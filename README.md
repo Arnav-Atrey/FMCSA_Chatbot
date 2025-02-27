@@ -11,9 +11,6 @@ This is a knowledge Bot that retrieves information from a Vector Database contai
 
 The system was tested with dummy questions that were outside the scope of the uploaded documents to evaluate its ability to manage AI hallucination. The bot performed exceptionally well, ignoring out-of-scope questions and only providing accurate responses based on the content within the database.
 
-# Architecture
-![kb3](https://github.com/user-attachments/assets/818ac4bf-a4a4-4c2f-a313-04d5e8d1921c)
-
 # Tools and Technologies Used: 
 1) Python programming Language
 2) Groq(for LLM API) -- Used Llama 3 8b as the large language model
